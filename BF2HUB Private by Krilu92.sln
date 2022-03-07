@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BF2HUB Private by Krilu92", "BF2HUB Private by Krilu92.vcxproj", "{0698E4E0-A06B-48C1-988F-25CE67F50E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0698E4E0-A06B-48C1-988F-25CE67F50E23}.Debug|x64.ActiveCfg = Debug|x64
+		{0698E4E0-A06B-48C1-988F-25CE67F50E23}.Debug|x64.Build.0 = Debug|x64
+		{0698E4E0-A06B-48C1-988F-25CE67F50E23}.Debug|x86.ActiveCfg = Debug|Win32
+		{0698E4E0-A06B-48C1-988F-25CE67F50E23}.Debug|x86.Build.0 = Debug|Win32
+		{0698E4E0-A06B-48C1-988F-25CE67F50E23}.Release|x64.ActiveCfg = Release|x64
+		{0698E4E0-A06B-48C1-988F-25CE67F50E23}.Release|x64.Build.0 = Release|x64
+		{0698E4E0-A06B-48C1-988F-25CE67F50E23}.Release|x86.ActiveCfg = Release|Win32
+		{0698E4E0-A06B-48C1-988F-25CE67F50E23}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87991FC3-6AF6-411E-9AFF-EA72B3712466}
+	EndGlobalSection
+EndGlobal
